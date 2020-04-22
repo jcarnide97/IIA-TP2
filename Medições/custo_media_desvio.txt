@@ -1,0 +1,42 @@
+NoObstacles
+				Custo		Média		Desvio Padrão
+Random				17		18.85714	3.273268
+Trepa Colinas			17		17.57143	1.420143
+Recristalização Simulada	17		21.33333	4.385582
+------------------------------------------------------------------------------
+ObstaclesSmall
+				Custo		Média		Desvio Padrão
+Random				25		27.71429	2.217198
+Trepa Colinas			25		27.42857	2.159598
+Recristalização Simulada	25		27.19028	2.159144
+------------------------------------------------------------------------------
+ObstaclesSmallManyBoxes
+				Custo		Média		Desvio Padrão
+Random				42		47		2.970443
+Trepa Colinas			30		36.14286	5.213912
+Recristalização Simulada	30		35.7619		3.505778
+------------------------------------------------------------------------------
+ReturnTo2b
+				Custo		Média		Desvio Padrão
+Random				63		66.57143	2.757724
+Trepa Colinas			63		67.71429	2.468286
+Recristalização Simulada	63		66.14286	2.475595
+------------------------------------------------------------------------------
+ReturnTo2bHarder
+				Custo		Média		Desvio Padrão
+Random				119		131.4286	6.770549
+Trepa Colinas			81		90.42857	7.413365
+Recristalização Simulada	79		89.95238	9.024833
+------------------------------------------------------------------------------
+Bomberman
+				Custo		Média		Desvio Padrão
+Random				125		133.5714	4.016772
+Trepa Colinas			83		90		4.880935
+Recristalização Simulada	77		89.28571	5.992853
+------------------------------------------------------------------------------
+PacmanOriginal
+				Custo		Média		Desvio Padrão
+Random				385		387.1429	7.26451
+Trepa Colinas			221		238.7143	13.0239
+Recristalização Simulada	220		242.6667	15.52847
+------------------------------------------------------------------------------
