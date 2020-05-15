@@ -2,5 +2,3 @@
 D31 - The Last Search
 
 Trabalho realizado por: Diogo Cota, João Nunes e Raul Nogueira
-
-Nota obtida no trabalho: 80%
